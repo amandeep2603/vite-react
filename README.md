@@ -19,3 +19,10 @@ npm run build
 ```
 
 >Follow the given deployment instruction inside dist folder for github pages hosting 
+
+
+## If you are using react router in your project  then follow few steps 👇
+
+## Use hashroute insteed browserroute 
+
+
