@@ -1,4 +1,4 @@
-# vite-react
+# Vite-react
 ## How to deploy react vite app in github pages ??
 
 ### Here are the steps 👇👇
